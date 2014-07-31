@@ -1,0 +1,16 @@
+<minigame_jogolimpo>
+  
+	<level id="1"> 
+		<timelimit>60</timelimit>
+	</level>
+	<level id="2"> 
+		<timelimit>5</timelimit>
+	</level>
+	<level id="3"> 
+		<timelimit>90</timelimit>
+	</level>
+	<level id="4">
+		<timelimit>60</timelimit>
+	</level>
+  
+</minigame_jogolimpo>
